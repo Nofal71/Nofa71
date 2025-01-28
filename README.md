@@ -17,9 +17,9 @@
 **Tools & Others:** Git, Vite, Axios, React Hook Form, Framer Motion  
 
 ## 🔹 Projects  
-💻 **[SnapReact](https://github.com/Nofa71/SnapReact)** – A frontend project built with Vite, featuring reusable components, custom hooks, and MUI themes.  
-🛒 **[E-commerce Site](https://github.com/Nofa71/E-commerce-site)** – A Firebase-powered CRUD e-commerce platform with React.  
-📊 **[POS Dashboard](https://github.com/Nofa71/Point-of-Sale-Dashboard)** – A POS system with local JSON Server for backend simulation.  
+💻 **[SnapReact](https://github.com/Nofal71/SnapReact)** – A frontend project built with Vite, featuring reusable components, custom hooks, and MUI themes.  
+🛒 **[E-commerce Site](https://github.com/Nofal71/e-commerce-site)** – A Firebase-powered CRUD e-commerce platform with React.  
+📊 **[POS Dashboard](https://github.com/Nofal71/Point-of-Sale-Dashboard)** – A POS system with local JSON Server for backend simulation.  
 🌐 **[Portfolio](https://personal-portfolio-sigma-jet.vercel.app/)** – My personal portfolio showcasing my work and skills.  
 
 ## 🔹 Connect With Me  
