@@ -1,30 +1,21 @@
-# 👋 Hi, I'm Nofal!  
+<h1 align="center">Hi 👋, I'm Nofal Hassaan</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-**Building Dynamic Web Experiences | CS Student**  
-🚀 Frontend Developer | React.js | Next.js | JavaScript | TypeScript  
-💡 Passionate about problem-solving and optimizing user experiences  
+- 🔭 I’m currently working on [SnapReact](https://github.com/Nofal71/SnapReact)
 
-## 🔹 About Me  
-- 🔥 Focused on **modern web development** with React, Vite, and Firebase.  
-- 📊 Learning **backend (Node.js)** to transition into full-stack development.  
-- 🏆 Practicing **Data Structures & Algorithms** to sharpen problem-solving skills.  
-- 🎯 Currently working on **SnapReact** and improving UI/UX in my projects.  
+- 🌱 I’m currently learning **React JS and Next JS**
 
-## 🔹 Tech Stack  
-**Frontend:** React.js, Next.js, Redux, TailwindCSS, Material-UI  
-**Backend:** Node.js (learning)  
-**Database:** Firebase, JSON Server  
-**Tools & Others:** Git, Vite, Axios, React Hook Form, Framer Motion  
+- 👨‍💻 All of my projects are available at [https://personal-portfolio-sigma-jet.vercel.app/](https://personal-portfolio-sigma-jet.vercel.app/)
 
-## 🔹 Projects  
-💻 **[SnapReact](https://github.com/Nofal71/SnapReact)** – A frontend project built with Vite, featuring reusable components, custom hooks, and MUI themes.  
-🛒 **[E-commerce Site](https://github.com/Nofal71/e-commerce-site)** – A Firebase-powered CRUD e-commerce platform with React.  
-📊 **[POS Dashboard](https://github.com/Nofal71/Point-of-Sale-Dashboard)** – A POS system with local JSON Server for backend simulation.  
-🌐 **[Portfolio](https://personal-portfolio-sigma-jet.vercel.app/)** – My personal portfolio showcasing my work and skills.  
+- 💬 Ask me about **react js / frontend dev / javacript**
 
-## 🔹 Connect With Me  
-📩 **Email:** hafiznofal76@gmail.com  
-🔗 **Portfolio:** [personal-portfolio-sigma-jet.vercel.app](https://personal-portfolio-sigma-jet.vercel.app/)  
+- 📫 How to reach me **hafiznofal76@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nofal-hassaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nofal-hassaan" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/nofal_hassaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nofal_hassaan" height="30" width="40" /></a>
+</p>
 
-💡 _Always open to learning, collaborating, and exploring new challenges!_ 🚀  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
